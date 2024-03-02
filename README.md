@@ -3,7 +3,9 @@ Lowers the volume of other players that are not talking through a walkie-talkie 
 
 For now this mod is still being tested. If you can test it and/or want to give feedback, you can find the relevant thread in the Lethal Company modding discord: https://discord.com/invite/lcmod
 
-Thread: "Muffle nearby sounds (mainly other players) when using a Walkie-Talkie"
+Thread: "Muffle nearby sounds (mainly other players) when using a Walkie-Talkie" or find the thread by searching my username "tpatall"
+
+While you are holding an active walkie-talkie, and another player (or multiple) are talking through a walkie-talkie, reduce the volume of other players. So you can better hear what they are trying to say.
 
 ## Config Settings
 Using LethalConfig you can change the value (0.0 to 1.0 multiplier of normal volume) anytime while in-game. 
